@@ -1,78 +1,71 @@
 <div align="center">
 
-# Olá, eu sou a Ester Miranda 👋
+# Olá, prazer 👋
 
-### Desenvolvedora de Software • Front-end • Full Stack
+Sou a Ester Miranda, desenvolvedora de software.
 
-Construindo aplicações modernas, intuitivas e escaláveis.
-
-<br>
+Construo interfaces modernas e aplicações web com foco em experiência, simplicidade e performance.
 
 </div>
 
 ---
 
-## Sobre mim
+## 👩‍💻 Sobre mim
 
-Sou desenvolvedora de software focada na criação de aplicações web modernas, com atenção à experiência do usuário, performance e boas práticas de desenvolvimento.
+Sou desenvolvedora de software apaixonada por criar aplicações modernas, intuitivas e funcionais. Gosto de transformar ideias em produtos, desenvolvendo interfaces, integrações e soluções completas que unem uma boa experiência para o usuário com um código limpo e bem estruturado.
 
-Meu principal foco é o desenvolvimento **Front-end**, utilizando **React**, **Next.js**, **TypeScript** e **Tailwind CSS**.
-
-Também possuo experiência com desenvolvimento Back-end utilizando **C#**, **PHP** e **Firebase**, além de trabalhar com **SQL**, **dbt** e **AWS**, o que me permite ter uma visão mais completa do ciclo de desenvolvimento de software.
-
-Atualmente estou aprofundando meus estudos em arquitetura de software, desenvolvimento full stack e construção de aplicações escaláveis.
+Tenho experiência principalmente com desenvolvimento Front-end utilizando React e Next.js, além de atuar também no Back-end com C#, PHP e Firebase. No meu dia a dia, também trabalho com SQL, AWS e engenharia de dados, o que me proporciona uma visão completa sobre todo o ciclo de desenvolvimento de software.
 
 ---
 
-## Tecnologias
+## ⚙️ Tecnologias
 
 ### Front-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
-</p>
+React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind
 
 ### Back-end
+C# · PHP · Firebase
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,firebase,mysql" />
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,visualstudio,figma" />
-</p>
+### Outros
+SQL · AWS · Git · GitHub · dbt
 
 ---
 
-## Atualmente estudando
+## 🌱 Atualmente focada em
 
-* React avançado
-* Next.js
-* TypeScript
-* PHP para back-end
-* Arquitetura de Software
-* Clean Code
-* AWS
-* UX/UI
+- Evoluir em React e Next.js  
+- Aprofundar em TypeScript  
+- Arquitetura de aplicações web  
+- Boas práticas de desenvolvimento  
+- Experiência do usuário (UX/UI)  
 
 ---
 
-## Contato
+## 💡 Um pouco além do código
 
-<p align="left">
+- Gosto de transformar ideias em interfaces reais  
+- Curiosa por tecnologia e boas experiências digitais  
+- Sempre buscando escrever código limpo e bem estruturado  
+- Acredito que simplicidade é uma das maiores qualidades no desenvolvimento  
 
-<a href="https://github.com/estrmrnd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/estrmrnd">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+## 📊 GitHub
 
-<a href="mailto:esterssmiranda@gmail.com">
-<img src="https://img.shields.io/badge/E-mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=estrmrnd&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estrmrnd&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+- GitHub: github.com/estrmrnd  
+- LinkedIn: https://www.linkedin.com/in/estrmrnd/
+- Email: esterssmiranda@gmail.com
+
+</div>
