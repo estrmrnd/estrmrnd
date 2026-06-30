@@ -50,21 +50,8 @@ SQL · AWS · Git · GitHub · dbt
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=estrmrnd&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estrmrnd&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
-- GitHub: github.com/estrmrnd  
 - LinkedIn: https://www.linkedin.com/in/estrmrnd/
 - Email: esterssmiranda@gmail.com
 
